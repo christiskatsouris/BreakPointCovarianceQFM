@@ -20,6 +20,15 @@ The R package will be able to be installed from Github.
 
 [5] Chen, L., Dolado, J. J., & Gonzalo, J. (2021). Quantile factor models. Econometrica, 89(2), 875-910.
 
+## Seminal Studies
+
+Csörgö, M., Csörgö, M., & Horváth, L. (1997). Limit theorems in change-point analysis.
+
+De Gooijer, J. G. (2006). Detecting change-points in multidimensional stochastic processes. Computational statistics & data analysis, 51(3), 1892-1903.
+
+Vostrikova, L. Y. E. (1981). Detecting “disorder” in multidimensional random processes. In Doklady Akademii Nauk (Vol. 259, No. 2, pp. 270-274). Russian Academy of Sciences.
+
+
 ## Declarations
 
 The author declares no conflicts of interest. 
