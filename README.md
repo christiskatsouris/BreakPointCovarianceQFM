@@ -4,6 +4,10 @@
 
 The paper proposes a framework for structural break testing and estimation in the structure of large covariance matrices for high-dimensional quantile factor models. The structural break testing utilizes a CUSUM-based detection technique which is flexible to various econometric conditions. The testing methodology relies on vectorized model residuals which captures fluctuations in the underline stochastic processes. Furtherore, we propose a novel data segementation and window estimation procedure which captures the covariance structure and allows to estimate the break-point locations based on the entries of the matrix from both the common components of the high-dimensional quantile factor model as well as the corresponding error components of the model. 
 
+## Installation (under development)
+
+The R package will be able to be installed from Github.
+
 ## Key References
 
 [1] Aue, Alexander, et al. "Break detection in the covariance structure of multivariate time series models." The Annals of Statistics 37.6B (2009): 4046-4087.
