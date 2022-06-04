@@ -13,3 +13,7 @@ The paper proposes a framework for structural break testing and estimation in th
 [3] Baltagi, Badi H., Chihwa Kao, and Fa Wang. "Estimating and testing high dimensional factor models with multiple structural changes." Journal of Econometrics 220.2 (2021): 349-365.
 
 [4] Li, Yu-Ning, Degui Li, and Piotr Fryzlewicz. "Detection of multiple structural breaks in large covariance matrices." Journal of Business & Economic Statistics just-accepted (2022): 1-43.
+
+## Declarations
+
+The author declares no conflicts of interest. 
