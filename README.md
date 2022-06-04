@@ -18,6 +18,8 @@ The R package will be able to be installed from Github.
 
 [4] Li, Yu-Ning, Degui Li, and Piotr Fryzlewicz. "Detection of multiple structural breaks in large covariance matrices." Journal of Business & Economic Statistics just-accepted (2022): 1-43.
 
+[5] Chen, L., Dolado, J. J., & Gonzalo, J. (2021). Quantile factor models. Econometrica, 89(2), 875-910.
+
 ## Declarations
 
 The author declares no conflicts of interest. 
