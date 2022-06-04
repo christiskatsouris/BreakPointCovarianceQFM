@@ -22,7 +22,7 @@ The R package will be able to be installed from Github.
 
 ## Seminal Studies
 
-Csörgö, M., Csörgö, M., & Horváth, L. (1997). Limit theorems in change-point analysis.
+Csörgö, M., and Horváth, L. (1997). Limit theorems in change-point analysis.
 
 De Gooijer, J. G. (2006). Detecting change-points in multidimensional stochastic processes. Computational statistics & data analysis, 51(3), 1892-1903.
 
