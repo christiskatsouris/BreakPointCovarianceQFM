@@ -8,6 +8,17 @@ The paper proposes a framework for structural break testing and estimation in th
 
 The R package ‘BreakPointCovarianceQFM’ will be able to be installed from Github.
 
+## Usage 
+
+```R
+
+# After development the package will be able to be installed using
+install.packages("BreakPointCovarianceQFM")
+library("BreakPointCovarianceQFM")
+
+```
+
+
 ## Key References
 
 [1] Aue, A., Hörmann, S., Horváth, L., & Reimherr, M. (2009). "Break detection in the covariance structure of multivariate time series models". The Annals of Statistics, 37(6B), 4046-4087.
