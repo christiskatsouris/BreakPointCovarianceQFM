@@ -10,15 +10,15 @@ The R package will be able to be installed from Github.
 
 ## Key References
 
-[1] Aue, A., Hörmann, S., Horváth, L., & Reimherr, M. (2009). Break detection in the covariance structure of multivariate time series models. The Annals of Statistics, 37(6B), 4046-4087.
+[1] Aue, A., Hörmann, S., Horváth, L., & Reimherr, M. (2009). "Break detection in the covariance structure of multivariate time series models". The Annals of Statistics, 37(6B), 4046-4087.
 
-[2] Barigozzi, M., Cho, H., & Fryzlewicz, P. (2018). Simultaneous multiple change-point and factor analysis for high-dimensional time series. Journal of Econometrics, 206(1), 187-225.
+[2] Barigozzi, M., Cho, H., & Fryzlewicz, P. (2018). "Simultaneous multiple change-point and factor analysis for high-dimensional time series". Journal of Econometrics, 206(1), 187-225.
 
-[3] Baltagi, B. H., Kao, C., & Wang, F. (2021). Estimating and testing high dimensional factor models with multiple structural changes. Journal of Econometrics, 220(2), 349-365.
+[3] Baltagi, B. H., Kao, C., & Wang, F. (2021). "Estimating and testing high dimensional factor models with multiple structural changes". Journal of Econometrics, 220(2), 349-365.
 
-[4] Li, Y. N., Li, D., & Fryzlewicz, P. (2022). Detection of multiple structural breaks in large covariance matrices. Journal of Business & Economic Statistics, (just-accepted), 1-43.
+[4] Li, Y. N., Li, D., & Fryzlewicz, P. (2022). "Detection of multiple structural breaks in large covariance matrices". Journal of Business & Economic Statistics, (just-accepted), 1-43.
 
-[5] Chen, L., Dolado, J. J., & Gonzalo, J. (2021). Quantile factor models. Econometrica, 89(2), 875-910.
+[5] Chen, L., Dolado, J. J., & Gonzalo, J. (2021). "Quantile factor models". Econometrica, 89(2), 875-910.
 
 ## Seminal Studies
 
