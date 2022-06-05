@@ -6,7 +6,7 @@ The paper proposes a framework for structural break testing and estimation in th
 
 ## Installation (under development)
 
-The R package will be able to be installed from Github.
+The R package ‘BreakPointCovarianceQFM’ will be able to be installed from Github.
 
 ## Key References
 
