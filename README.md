@@ -39,6 +39,9 @@ De Gooijer, J. G. (2006). Detecting change-points in multidimensional stochastic
 
 Vostrikova, L. Y. E. (1981). Detecting “disorder” in multidimensional random processes. In Doklady Akademii Nauk (Vol. 259, No. 2, pp. 270-274). Russian Academy of Sciences.
 
+## Notes
+
+Please note that the ‘BreakPointCovarianceQFM’ project will be released with a Contributor Code of Coduct (under construction). By contributing to this project, you agree to abide by its terms. 
 
 ## Declarations
 
