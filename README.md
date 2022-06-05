@@ -33,11 +33,11 @@ library("BreakPointCovarianceQFM")
 
 ## Seminal Studies
 
-Csörgö, M., and Horváth, L. (1997). Limit theorems in change-point analysis.
+- Csörgö, M., and Horváth, L. (1997). Limit theorems in change-point analysis.
 
-De Gooijer, J. G. (2006). Detecting change-points in multidimensional stochastic processes. Computational statistics & data analysis, 51(3), 1892-1903.
+- De Gooijer, J. G. (2006). Detecting change-points in multidimensional stochastic processes. Computational statistics & data analysis, 51(3), 1892-1903.
 
-Vostrikova, L. Y. E. (1981). Detecting “disorder” in multidimensional random processes. In Doklady Akademii Nauk (Vol. 259, No. 2, pp. 270-274). Russian Academy of Sciences.
+- Vostrikova, L. Y. E. (1981). Detecting “disorder” in multidimensional random processes. In Doklady Akademii Nauk (Vol. 259, No. 2, pp. 270-274). Russian Academy of Sciences.
 
 ## Notes
 
