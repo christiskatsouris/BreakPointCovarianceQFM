@@ -10,13 +10,13 @@ The R package will be able to be installed from Github.
 
 ## Key References
 
-[1] Aue, Alexander, et al. "Break detection in the covariance structure of multivariate time series models." The Annals of Statistics 37.6B (2009): 4046-4087.
+[1] Aue, Alexander, et al (2009). "Break detection in the covariance structure of multivariate time series models." The Annals of Statistics 37.6B: 4046-4087.
 
-[2] Barigozzi, Matteo, Haeran Cho, and Piotr Fryzlewicz. "Simultaneous multiple change-point and factor analysis for high-dimensional time series." Journal of Econometrics 206.1 (2018): 187-225.
+[2] Barigozzi, Matteo, Haeran Cho, and Piotr Fryzlewicz (2018). "Simultaneous multiple change-point and factor analysis for high-dimensional time series." Journal of Econometrics 206.1: 187-225.
 
-[3] Baltagi, Badi H., Chihwa Kao, and Fa Wang. "Estimating and testing high dimensional factor models with multiple structural changes." Journal of Econometrics 220.2 (2021): 349-365.
+[3] Baltagi, Badi H., Chihwa Kao, and Fa Wang (2021). "Estimating and testing high dimensional factor models with multiple structural changes." Journal of Econometrics 220.2: 349-365.
 
-[4] Li, Yu-Ning, Degui Li, and Piotr Fryzlewicz. "Detection of multiple structural breaks in large covariance matrices." Journal of Business & Economic Statistics just-accepted (2022): 1-43.
+[4] Li, Yu-Ning, Degui Li, and Piotr Fryzlewicz (2022). "Detection of multiple structural breaks in large covariance matrices." Journal of Business & Economic Statistics just-accepted: 1-43.
 
 [5] Chen, L., Dolado, J. J., & Gonzalo, J. (2021). Quantile factor models. Econometrica, 89(2), 875-910.
 
