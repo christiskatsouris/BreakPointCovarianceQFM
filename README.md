@@ -35,7 +35,7 @@ library("BreakPointCovarianceQFM")
 
 [7] Chen, L., Dolado, J. J., & Gonzalo, J. (2021). "Quantile factor models". Econometrica, 89(2), 875-910.
 
-# Bibliography
+## Bibliography
 
 - Csörgö, M., and Horváth, L. (1997). Limit theorems in change-point analysis.
 
