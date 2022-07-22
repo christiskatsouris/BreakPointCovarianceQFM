@@ -2,7 +2,7 @@
 
 ## Break Detection in Large Covariance Matrices of High-Dimensional Quantile Factor Models
 
-Anastasiou A. and Katsouris C. (2022+) "Break Detection in Large Covariance Matrices of High-Dimensional Quantile Factor Models" (working paper).
+Anastasiou Andreas and Katsouris Christis (2022+). "Break Detection in Large Covariance Matrices of High-Dimensional Quantile Factor Models". Working paper.
 
 $\textbf{Abstract}$ The paper proposes a framework for structural break testing and estimation in the structure of large covariance matrices for high-dimensional quantile factor models. The structural break testing utilizes a CUSUM-based detection technique which is flexible to various econometric conditions. The testing methodology relies on vectorized model residuals which captures fluctuations in the underline stochastic processes. Furtherore, we propose a novel data segementation and window estimation procedure which captures the covariance structure and allows to estimate the break-point locations based on the entries of the matrix from both the common components of the high-dimensional quantile factor model as well as the corresponding error components of the model. 
 
